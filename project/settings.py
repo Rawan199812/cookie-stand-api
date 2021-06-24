@@ -60,6 +60,7 @@ INSTALLED_APPS = [
     # local
     "accounts",
     "things",
+    "book",
 ]
 
 MIDDLEWARE = [
